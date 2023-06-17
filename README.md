@@ -7,6 +7,11 @@ configuration
 to simplify deployment. Keycloak will connect with Postgres DB and angular client will connect to it accordingly to
 configuration
 
+## What you need to run this app
+   *Docker
+   *Node JS
+
+
 ## Setup
 
     *Git clone repository
