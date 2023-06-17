@@ -8,8 +8,8 @@ to simplify deployment. Keycloak will connect with Postgres DB and angular clien
 configuration
 
 ## What you need to run this app
-   *Docker
-   *Node JS
+    *Docker
+    *Node JS
 
 
 ## Setup
